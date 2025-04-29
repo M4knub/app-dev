@@ -1,6 +1,5 @@
 # app-dev
 My first repository
-# My First Repository - app-dev
 
 This is my first repository, created as part of the app-dev course. It's a place for me to learn and experiment with version control using Git and GitHub.
 
@@ -22,6 +21,7 @@ Here's some information about my favorite series/movies:
     5.  Hulk
 * **Director:** Anthony and Joe Russo
 * **Release Date:** 2019
+* **[IMDb Page](https://www.imdb.com/title/tt4154796/)**
 
 ### Doctor Strange
 
@@ -36,7 +36,5 @@ Here's some information about my favorite series/movies:
     4.  Wong
 * **Director:** Scott Derrickson
 * **Release Date:** 2016
+* **[Marvel Official Page](https://www.marvel.com/movies/doctor-strange)**
 
-**Bold Text Example:** This is **very** exciting!
-
-_Italic Text Example:_ This is _also_ interesting.
